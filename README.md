@@ -2,13 +2,13 @@
 OS Simulator titled Speakeasy OS.
 
 **Team members:**
-Jonathan Holguin
-Arturo Galvez
-Alan Verdugo
+1. Jonathan Holguin
+2. Arturo Galvez
+3. Alan Verdugo
 
 Speakeasy OS is a terminal/command line based operating system intended to simulate a working OS with built-in features such as the ability to browse files, open files, create new files, delete files, as well as install and open applications. 
 
-**NOTICE: SPEAKEASY OS WAS CODED ON VISUAL STUDIO PRO**
+**NOTICE: SPEAKEASY OS WAS CODED ON VISUAL STUDIO 2022, NOT VISUAL STUDIO CODE.*
 
 **To run the program:**
 1. Download the required dependencies: 'main.cpp', 'authentication.cpp', and 'authentication.h'.
