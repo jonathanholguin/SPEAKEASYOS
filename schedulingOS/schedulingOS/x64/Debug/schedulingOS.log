@@ -1,0 +1,4 @@
+﻿  schedulingOS.cpp
+C:\Users\alexj\source\repos\schedulingOS\schedulingOS\schedulingOS.cpp(83,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alexj\source\repos\schedulingOS\schedulingOS\schedulingOS.cpp(169,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  schedulingOS.vcxproj -> C:\Users\alexj\source\repos\schedulingOS\x64\Debug\schedulingOS.exe
