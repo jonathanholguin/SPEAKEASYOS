@@ -28,21 +28,21 @@ Installation & Usage
 Authentication Module (Operating System)
 ```
 cd SPEAKEASYOS/Operating System
-g++ main.cpp auth.cpp -o auth_sim
+g++ main.cpp authentication.cpp -o auth_sim
 auth_sim.exe
 ```
 
 Process Creation Module (processes)
 ```
 cd SPEAKEASYOS/processes
-g++ main.cpp process.cpp -o process_sim
+g++ main2.cpp process.cpp -o process_sim
 process_sim.exe
 ```
 
 CPU Scheduling Module (scheduling OS)
 ```
-cd SPEAKEASYOS/schedulingOS
-g++ main.cpp scheduler.cpp process.cpp -o scheduling_sim
+cd SPEAKEASYOS/schedulingOS/schedulingOS
+g++ schedulingOS.cpp -o scheduling_sim
 scheduling_sim.exe
 ```
 
