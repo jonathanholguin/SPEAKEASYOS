@@ -21,7 +21,6 @@ Download
 Clone the repository using Git:
 ```
 git clone https://github.com/jonathanholguin/SPEAKEASYOS.git
-cd SPEAKEASYOS
 ```
 Installation & Usage
 ---
