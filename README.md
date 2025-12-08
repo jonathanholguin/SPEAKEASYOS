@@ -49,7 +49,7 @@ scheduling_sim.exe
 Virtual Memory Module (Virtual Memory)
 ```
 cd SPEAKEASYOS/Virtual Memory/Virtual Memory
-g++ main.cpp MemoryManager.cpp PageTableEntry.cpp -o vm_sim
+g++ main.cpp MemoryManager.cpp PageTable.cpp VirtualMemoryManager.cpp -o vm_sim
 vm_sim.exe
 ```
 
